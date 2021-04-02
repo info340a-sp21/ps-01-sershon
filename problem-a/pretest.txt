@@ -1,0 +1,23 @@
+ FAIL  problem-a/problem.spec.js
+  Used test-driven development
+    ✕ Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
+  Source code is valid
+    ✓ HTML validates without errors (6 ms)
+    ✕ CSS validates without errors (139 ms)
+  Has required HTML
+    ✕ Specifies charset (3 ms)
+    ✕ Includes page title (1 ms)
+    ✕ Includes author metadata (1 ms)
+    ✕ Has a top-level heading (1 ms)
+    ✕ Has an image
+    ✕ Includes a paragraph
+    ✕ Includes a hyperlink in the paragraph (1 ms)
+    ✕ Includes a list
+    ✕ List has at least 3 items
+  Has required CSS
+    ✕ Links in local stylesheet (1 ms)
+    ✕ Body has default font size (1 ms)
+    ✕ Body has default font family (1 ms)
+    ✕ Paragraphs have specified line height
+    ✕ Images have constrained height
+    ✕ Important list item is colored (1 ms)
